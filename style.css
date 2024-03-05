@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* ESTILIZAÇÃO DA PÁGINA PRINCIPAL: */ 
+
+* {
+    background-color: #FCF6F4;
+    color: #100F0F;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 160px;
+}
+
+.header-content {
+    display: flex;
+    font-size: 15px;
+    padding-top: 90px;
+    padding-left: 90px;
+}
+
+.github {
+    padding-left: 13px;
+}
+
+.loja {
+    padding-left: 1010px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main {
+    display: flex;
+    height: 480px;
+}
+
+.left {
+    width: 50%;
+    padding: 220px 0px 0px 90px;
+}
+
+.email {
+    font-size: 13px;    
+}
+
+.label {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.01em;
+    font-size: 23px;
+    padding: 20px 0px 0px 3px;
+}
+
+.right {  
+    text-align: right;
+    width: 50%;
+    padding-top: 0px;
+    padding-right: 90px;
+}
+
+.right h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 250px;
+}
+
+.right p {
+    font-size: 15px;
+}
+
+.parenthesis {
+    font-size: 15px;
+    padding-bottom: 50px;
+}
+
+/* ESTILIZAÇÃO DA PÁGINA DOS PRODUTOS: */
+
+.linkedin-produtos {
+    padding-left: 930px;
+}
+
+.produtos {
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 400px;
+}
+
+.produto {
+    width: 400px;    
+}
+
+.produto-imagem {
+    display: flex;
+    justify-content: center;
+    padding: 15px;   
+}
+
+.produto-imagem img {
+    width: 255px;
+    height: 255px;
+}
+
+.produto-descricao {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #100F0F;
+    padding-left: 35px;
+}
