@@ -10,4 +10,4 @@ Tecnologias: **HTML** e **CSS**
 
 ## 🌐  GitHub pages
 
- - __[Live](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)__
+ - __[Live](https://vilasbtw.github.io/temdetudo/)__
